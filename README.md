@@ -24,9 +24,6 @@
   </a>
 </p>
 
----
-
-<!-- ===================== ABOUT ===================== -->
 
 ## About Me
 
@@ -41,8 +38,6 @@ I specialize in:
 I enjoy turning ideas into real-world applications with clean code, strong architecture, and modern design principles.
 
 ---
-
-<!-- ===================== TECH STACK ===================== -->
 
 ## Tech Stack
 
@@ -69,7 +64,7 @@ I enjoy turning ideas into real-world applications with clean code, strong archi
 ---
 
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <details>
 <summary>Medical Management System (Ooredoo)</summary>
@@ -124,7 +119,7 @@ I enjoy turning ideas into real-world applications with clean code, strong archi
 
 
 
-**Graphic Designer (Freelance)**
+**Graphic Designer **
 - Logo & branding design
 - Social media visuals
 - UI/UX mockups
@@ -136,7 +131,7 @@ I enjoy turning ideas into real-world applications with clean code, strong archi
 
 ---
 
-<!-- ===================== CERTIFICATIONS ===================== -->
+
 
 ## Certifications
 
@@ -145,7 +140,6 @@ I enjoy turning ideas into real-world applications with clean code, strong archi
 
 ---
 
-<!-- ===================== STATS ===================== -->
 
 ## GitHub Stats
 
@@ -163,15 +157,6 @@ I enjoy turning ideas into real-world applications with clean code, strong archi
   <img src="https://github-profile-trophy.vercel.app/?username=hakimbnk&theme=onestar&no-frame=true"/>
 </p>
 
----
-
-## Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hakimbnk&theme=react-dark"/>
-</p>
-
----
 
 ## Contribution Snake
 
@@ -180,8 +165,6 @@ I enjoy turning ideas into real-world applications with clean code, strong archi
 </p>
 
 ---
-
-<!-- ===================== CURRENT FOCUS ===================== -->
 
 ## Current Focus
 
