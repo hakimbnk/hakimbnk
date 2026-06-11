@@ -1,9 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&Full+Stack+Developer;UI%2FUX+Designer;Cybersecurity+Enthusiast"/>
-</p>
+# About Me:
+<br><br><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1500&color=00BFFF&center=true&vCenter=true&width=900&lines=Benkritly+Abdel+Hakim;3ème+Année+Ingénieur+Informatique" /><br><br><p align="left"><br>  <img src="https://skillicons.dev/icons?i=java,js,php,mysql,html,css,figma,canva,git,github,vscode" /><br></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Algeria-4C1D95?style=for-the-badge"/>
